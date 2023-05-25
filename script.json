@@ -7,18 +7,18 @@
   "websites": [
     {
       "url": "https://telemetria.drpc.cloud:3000/d/DpehMC84k/monitoramento-simm-servidores?orgId=1&refresh=30s",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 45,
+      "tabReloadIntervalSeconds": 45
     },
     {
       "url": "https://telemetria.drpc.cloud:3000/d/m3OGfl8Vz/monitoramento-firewall-simm?orgId=1&refresh=30s",
-      "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "duration": 45,
+      "tabReloadIntervalSeconds": 45
     },
     {
       "url": "",
       "duration": 8,
-      "tabReloadIntervalSeconds": 15
+      "tabReloadIntervalSeconds": 0
     }
   ]
 }
