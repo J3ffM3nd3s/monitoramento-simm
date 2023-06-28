@@ -16,7 +16,7 @@
       "tabReloadIntervalSeconds": 15
     },
     {
-      "url": "https://telemetria.drpc.cloud:3000/d/QIkVV097k/monitoramento-simm?orgId=1&refresh=30s",
+      "url": "https://simmunifi.drpcremoto.com:8443/manage/tpyybfzs/insights/wifiConnectivity",
       "duration": 45,
       "tabReloadIntervalSeconds": 15
     }
