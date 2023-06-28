@@ -15,6 +15,11 @@
       "duration": 45,
       "tabReloadIntervalSeconds": 15
     },
+     {
+      "url": "https://simmunifi.drpcremoto.com:8443/manage/tpyybfzs/devices",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 15
+    },
     {
       "url": "https://simmunifi.drpcremoto.com:8443/manage/tpyybfzs/insights/wifiConnectivity",
       "duration": 45,
