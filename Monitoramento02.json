@@ -1,0 +1,30 @@
+{
+  "settingsReloadIntervalMinutes": 1,
+  "fullscreen": false,
+  "autoStart": false,
+  "lazyLoadTabs": false,
+  "closeExistingTabs": false,
+  "websites": [
+    {
+      "url": "https://cgs.simmsolucoes.com.br/plugins/dashboard/front/tickets/tickets.php",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 15
+    },
+{
+      "url": "https://cgs.simmsolucoes.com.br/plugins/dashboard/front/metrics/index.php?ent=1",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 15
+    },
+{
+      "url": "https://cgs.simmsolucoes.com.br/plugins/dashboard/front/tickets/tickets.php",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 15
+    },
+
+    {
+      "url": "https://cgs.simmsolucoes.com.br/plugins/dashboard/front/metrics/index.php?ent=1",
+      "duration": 45,
+      "tabReloadIntervalSeconds": 15
+    }
+  ]
+}
